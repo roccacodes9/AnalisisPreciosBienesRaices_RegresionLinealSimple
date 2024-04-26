@@ -36,7 +36,7 @@ El análisis sigue los siguientes pasos:
 4. Visualización de la línea de regresión en el gráfico de dispersión.
 5. Resumen detallado de los resultados del análisis.
 
-## Resultados y Objetivo del Análisis
+## Resultados
 
 El análisis revela la relación entre el tamaño de las propiedades y sus precios en el mercado inmobiliario.
 ## Objetivo del Análisis
